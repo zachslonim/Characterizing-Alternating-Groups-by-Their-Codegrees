@@ -33,12 +33,10 @@ Clone this repository to your local machine and navigate to the root of the clon
 
 ## Usage
 
-Once all dependencies are downloaded and installed, you can run Julia scripts with the command `julia <filename>`. Specifically, run the scripts written for this research project with the below commands.
+Once all dependencies are downloaded and installed, you can run Julia scripts with the command `julia <filename>`. Specifically, run the script written for this research project with the below commands.
 
 ```
-> julia "Step 1 Calculations.jl"
-
-> julia "Step 2 Calculations.jl"
+> julia Calculations.jl
 ```
 
 ## Contributions
